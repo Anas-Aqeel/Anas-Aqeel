@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working Frontend Development 🚀 having an experience of building Web applications with JavaScript / ReactJs / NodeJs and some other cool libraries and frameworks.<br>🌱 I’m currently learning web3 technologies such as Solidity,  EtherJs, web3
+Specializing in JavaScript, TypeScript, React, and Next.js, I am a Full-Stack Developer with many years of experience. The main issue of front-end development is transforming into user-friendly web solutions. I guarantee that after using front-end frameworks such as Angular.js React, and j and following the best optimization practices for asset loading and the initial setup, this site is guaranteed to be fast.
+My current learning journey includes mastering Generative AI and blockchain technologies.
+
+The developer who writes clean, maintainable code is a developer that is me. I am not only dedicated to the project but also would like to find colleagues with whom I could do the same. We have not had this kind of end that we have tried with this project, and this was very interesting. And currently, I am very committed to it. Along with my technical skills, collaboratively I can be as convinced about my statements as a fact that it is the text typed out in front of you. The outcome was we collected a list of items that we wanted to be drawn with buyers instead of guests, which resulted in making decisions much faster.
 
 
 
